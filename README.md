@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React App -> To Do Lists
+In this project we created todo list react app in which one can login and add daily todo activities. We can also remove and edit activities.
+I am also including the readme by react npm.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
